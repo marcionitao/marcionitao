@@ -3,7 +3,8 @@
 A true lover of knowledge, always looking to learn more and share information. To date, providing services as Freelance in the development of web applications for companies and individuals related to tourism, finance and marketing. 🚀
 
 #### My current tools 
-🌎 Front-end Web with Reactjs(Nextjs)  
+🌎 Front-end Web with React(Next)
+📲 Front-end Mobile with React Native
 ✨ Tailwind CSS  
 📡 Back-end with Nodejs  
 🛠️ Typescript  
